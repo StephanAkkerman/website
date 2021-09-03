@@ -19,6 +19,10 @@ I used Britanny Chiang's website design for this website.
 She has made this publicly availble for everyone to use, but please give credit if you do.
 Check out her [GitHub page](https://github.com/bchiang7/v4) for more info.
 
+## To Do
+- Add publication section
+- Make new resume
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
