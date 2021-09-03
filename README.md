@@ -17,7 +17,7 @@
 
 I used Britanny Chiang's website design for this website. 
 She has made this publicly availble for everyone to use, but please give credit if you do.
-Check out her ![GitHub page](https://github.com/bchiang7/v4) for more info.
+Check out her [GitHub page](https://github.com/bchiang7/v4) for more info.
 
 ## 🛠 Installation & Set Up
 
