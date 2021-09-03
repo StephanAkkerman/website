@@ -1,0 +1,4 @@
+- Link fixen van projects
+- Publication section toevoegen, https://jonas-kgomo.github.io/
+- Files op GitHub zetten na npm run clean
+- Node modules verplaatsen??
