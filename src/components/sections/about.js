@@ -139,20 +139,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Stephan and I enjoy developing things that focus on machine learning and trading.
-              My interests in these topics developed in the summer of 2020, having the desire to combine two things that I spend a lot of my time on.
+              Hello! I'm Stephan and I am an expert in developing things that focus on machine learning and trading.
+              During the summer of 2020 I was working hard to increase my knowledge on day trading and simultaneously thinking of a proper topic for my thesis.
+              That summer I decided to combine my passion and skill in both topics, which shaped the foundation for my <a href="#projects"> bachelor thesis</a>.
             </p>
 
             <p>
               I graduated <a href="https://www.veluwscollege.nl/walterbosch" target="_blank">Veluws College Walterbosch</a> in 2018.
-              At early age I knew I wanted to study something involving computers and in high school I realized AI would be the perfect study for me.
+              Ever Since I was young I knew I wanted to study something involving computers and in high school I realized AI would be the perfect study for me.
               Therefore I started studying AI 
               at <a href="https://www.uu.nl/bachelors/kunstmatige-intelligentie" target="_blank">Utrecht University</a> after my graduation.
-              In 2021, after three years, I finished my bachelor's degree. Currently I am continuing my studies in the form of a master's degree, 
+              In 2021, three years later, I finished my bachelor's degree. Currently I am continuing my studies in AI in the form of a master's degree, 
               also at <a href="https://www.uu.nl/masters/en/artificial-intelligence" target="_blank">Utrecht University</a>.
             </p>
 
-            <p>Here are a few technologies I've worked with. As you might have noticed from my GitHub page, I particulary enjoy using Python for my projects.</p>
+            <p>Here are a few technologies I've worked with. As you might have noticed from my GitHub page, I particularly enjoy using Python for my projects.</p>
           </div>
 
           <ul className="skills-list">
