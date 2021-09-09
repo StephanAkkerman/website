@@ -21,6 +21,10 @@ Check out her [GitHub page](https://github.com/bchiang7/v4) for more info.
 
 ## To Do
 - Make new resume
+- Fix Facebook SVG
+- Deploy .com site
+- Light mode toggle
+- Cleaner skills overview
 
 ## 🛠 Installation & Set Up
 
