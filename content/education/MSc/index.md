@@ -2,7 +2,7 @@
 date: '2021-09-01'
 title: 'MSc Degree'
 company: 'MSc AI'
-location: 'Utrecht'
+location: 'Utrecht University'
 range: 'September 2021 - Present'
 url: 'https://www.uu.nl/masters/en/artificial-intelligence'
 ---

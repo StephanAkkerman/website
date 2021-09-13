@@ -2,7 +2,7 @@
 date: '2011-09-01'
 title: 'HAVO Degree'
 company: 'HAVO'
-location: 'Apeldoorn'
+location: 'Veluws College Walterbosch'
 range: 'September 2011 - June 2016'
 url: 'https://www.veluwscollege.nl/walterbosch/'
 ---

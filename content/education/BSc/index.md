@@ -2,7 +2,7 @@
 date: '2018-09-01'
 title: 'BSc Degree'
 company: 'BSc AI'
-location: 'Utrecht'
+location: 'Utrecht University'
 range: 'September 2018 - June 2021'
 url: 'https://www.uu.nl/bachelors/kunstmatige-intelligentie'
 ---

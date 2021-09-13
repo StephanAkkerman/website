@@ -2,7 +2,7 @@
 date: '2016-09-01'
 title: 'VWO Degree'
 company: 'VWO'
-location: 'Apeldoorn'
+location: 'Veluws College Walterbosch'
 range: 'September 2016 - June 2018'
 url: 'https://www.veluwscollege.nl/walterbosch/'
 ---

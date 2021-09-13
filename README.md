@@ -14,7 +14,6 @@
 ![demo](./src/images/demo.png)
 
 ## To Do
-- Make new resume
 - Deploy .com site
 - Light mode toggle
 - Cleaner skills overview

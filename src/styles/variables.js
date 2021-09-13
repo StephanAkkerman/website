@@ -3,7 +3,7 @@ import { css } from 'styled-components';
 // dark-navy: opening screen background
 // navy: background
 // light-navy: featured background
-// lightest-navy: lines next to header
+// lightest-navy: lines next to headers
 // navy-shadow: top of the screen shadow
 
 // dark-slate: scroll bar
@@ -15,12 +15,12 @@ import { css } from 'styled-components';
 const variables = css`
   :root {
     --dark-navy: #041424;
-    --navy: #081424;
-    --light-navy: #2a2b4b;
+    --navy: #06101d;
+    --light-navy: #22223c;
     --lightest-navy: #303c55;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
-    --slate: #8892b0;
+    --slate: #a9a297;
     --light-slate: #a8b2d1;
     --lightest-slate: #a37ccb;
     --white: #e6f1ff;
