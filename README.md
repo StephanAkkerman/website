@@ -14,7 +14,6 @@
 ![demo](./src/images/demo.png)
 
 ## To Do
-- Deploy .com site
 - Light mode toggle
 - Cleaner skills overview
 
