@@ -5,7 +5,7 @@ module.exports = {
     title: 'Stephan Akkerman',
     description:
       'Stephan Akkerman is a back-end software developer from the University of Utrecht',
-    siteUrl: 'https://stephanakkerman.github.io', // No trailing slash allowed!
+    siteUrl: 'https://stephanakkerman.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@stephanakkerman',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'StephanAkkerman',
+        short_name: 'StephanAkkerman',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
