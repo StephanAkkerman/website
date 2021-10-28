@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Stephan Akkerman',
+    title: 'Stephan Akkerman | Software Engineer | Portfolio',
     description:
-      'Stephan Akkerman is a back-end software developer from the University of Utrecht',
-    siteUrl: 'https://stephanakkerman.com', // No trailing slash allowed!
+      'Stephan Akkerman is a back-end software engineer studying artificial intelligence (AI) at University of Utrecht. His proficiencies are in machine learning and automated trading.',
+    siteUrl: 'https://www.stephanakkerman.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@stephanakkerman',
+    twitterUsername: '@StephanAkkerman',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
