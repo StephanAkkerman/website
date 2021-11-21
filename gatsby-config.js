@@ -5,7 +5,7 @@ module.exports = {
     title: 'Stephan Akkerman | Software Engineer | Portfolio',
     description:
       'Stephan Akkerman is a back-end software engineer studying artificial intelligence (AI) at University of Utrecht. His proficiencies are in machine learning and automated trading.',
-    siteUrl: 'https://www.stephanakkerman.com', // No trailing slash allowed!
+    siteUrl: 'https://www.akkerman.ai', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@StephanAkkerman',
   },
