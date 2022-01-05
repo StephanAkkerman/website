@@ -5,6 +5,7 @@ pull_request_rules:
           - "author=dependabot"
           - "author=StephanAkkerman"
           - "author=TimKoornstra"
+          - "author=imgbot"
     actions:
       merge:
         method: merge
